@@ -12,7 +12,7 @@ public class PersonTableModel extends AbstractTableModel {
 	
 	private List<Person> db;
 	
-	private String[] colNames = {"ID", "Имя", "Цена", "Автомобиль", "Наличие", "Импорт", "Код","Picture"};
+	private String[] colNames = {"ID", "Имя", "Цена", "Автомобиль", "Наличие", "Импорт", "Код","hello","Picture"};
 	
 	private int colLength = colNames.length;
 	
